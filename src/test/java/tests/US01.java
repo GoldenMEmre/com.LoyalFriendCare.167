@@ -13,5 +13,6 @@ public class US01 {
         Driver.getDriver().get(ConfigReader.getProperty("url"));
         adminPages.signInButton.click();
         System.out.println("merhaba 167");
+        System.out.println("asdasd");
     }
 }
