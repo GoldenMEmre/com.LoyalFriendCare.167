@@ -12,5 +12,6 @@ public class US01 {
     public void US01(){
         Driver.getDriver().get(ConfigReader.getProperty("url"));
         adminPages.signInButton.click();
+        System.out.println("asdasd");
     }
 }
