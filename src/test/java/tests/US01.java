@@ -14,5 +14,6 @@ public class US01 {
         adminPages.signInButton.click();
         System.out.println("merhaba 167");
         System.out.println("asdasd");
+        System.out.println("son hali");
     }
 }
